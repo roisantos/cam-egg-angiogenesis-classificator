@@ -35,6 +35,7 @@ Resultados Esperados:
 Conclusión:
 
 Este proxecto proporcionará unha ferramenta valiosa para os investigadores na área de biomateriais, permitindo unha avaliación máis rápida e precisa dos materiais destinados a implantes no organismo humano.
+
 Bibliografía:
 
     Deep Learning-Based Image Analysis for the Quantification of Tumor-Induced Angiogenesis
