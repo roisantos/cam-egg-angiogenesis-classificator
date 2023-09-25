@@ -38,17 +38,17 @@ Este proxecto proporcionará unha ferramenta valiosa para os investigadores na �
 Bibliografía:
 
     Deep Learning-Based Image Analysis for the Quantification of Tumor-Induced Angiogenesis
-        Link to Article
-        Snippet: The CAM resembles the highly vascularized membrane that is formed within fertilized chicken eggs during the embryonic development of the chicken.
+        Ligazón ao Artigo: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9367525/
+        Fragmento: O CAM semella a membrana altamente vascularizada que se forma dentro dos ovos de galiña fecundados durante o desenvolvemento embrionario do polo.
 
     Utilisation of Chick Embryo Chorioallantoic Membrane as a Model Platform for Imaging-Navigated Biomedical Research
-        Link to Article
-        Snippet: Neural networks (CNNs) have shown promising performance in image classification. CAM studies can be improved by good embryo detection.
+        Ligazón ao Artigo: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7926796/
+        Fragmento: As redes neurais (CNNs) mostraron un rendemento prometedor na clasificación de imaxes. Os estudos CAM poden mellorarse cunha boa detección de embrións.
 
     A Novel Artificial Intelligence-Based Approach for Quantitative Assessment of Angiogenesis in the Ex Ovo CAM Model
-        Link to Article
-        Snippet: The chorioallantoic membrane (CAM) assay is widely used in the study of angiogenesis. Ex ovo cultured chick embryos develop an easily accessible CAM.
+        Ligazón ao Artigo: https://www.researchgate.net/publication/363192943_A_Novel_Artificial_Intelligence-Based_Approach_for_Quantitative_Assessment_of_Angiogenesis_in_the_Ex_Ovo_CAM_Model
+        Fragmento: O ensaio de membrana chorioallantoic (CAM) é amplamente utilizado no estudo da anxiogénese. Os embrións de polo cultivados ex ovo desenvolven un CAM facilmente accesible.
 
     Hatching eggs classification based on deep learning
-        Link to Article
-        Snippet: In order to realize the fertility detection and classification of hatching eggs, a method based on deep learning is proposed in this paper.
+        Ligazón ao Artigo: https://www.researchgate.net/publication/320884161_Hatching_eggs_classification_based_on_deep_learning
+        Fragmento: Co obxectivo de realizar a detección da fertilidade e a clasificación dos ovos de eclosión, propónse un método baseado en aprendizaxe profunda neste documento.
