@@ -3,12 +3,15 @@ Estimación visual de nivel de toxicidade e compatibilidade de biomateriais en p
 
 Proposta de Proxecto
 Título: Desenvolvemento dun Sistema Automático para a Avaliación da Toxicidade e a Xeración de Novos Vasos Sanguíneos en Ensaios CAM
+
 Contexto:
 
 Na ciencia de biomateriais, utilizase un ensaio coñecido como CAM (Chick Chorioallantoic Membrane) con ovos de galiña fecundados para avaliar a toxicidade dos materiais destinados a ser implantados no organismo humano e a súa capacidade para xerar novos vasos sanguíneos. As imaxes obtidas neste ensaio son cruciais para a análise e clasificación dos materiais.
+
 Obxectivo:
 
 O obxectivo principal deste proxecto é desenvolver un sistema automático capaz de analizar as imaxes obtidas nos ensaios CAM para contar os novos vasos sanguíneos formados, medir o seu calibre e clasificar o material en diferentes categorías (por exemplo, tóxico/non tóxico ou compatibilidade do material baixa, media, alta).
+
 Metodoloxía:
 
     Recolleita e Preprocesamento de Imaxes:
